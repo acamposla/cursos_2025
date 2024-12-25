@@ -41,6 +41,18 @@ Este repositorio contiene mi progreso en los cursos que estoy realizando durante
 ### Marketing y Negocios
 - [ ] [Foundations of Digital Marketing and E-Commerce](Digital_Marketing_ECommerce/)  
 
+## 📖 Libros para 2025
+| Título                                     | Autor               | Estado          | Notas/Resumen                                |
+|-------------------------------------------|---------------------|-----------------|---------------------------------------------|
+| La tabla rasa                             | Steven Pinker       | 📘 Leyendo      | [Ver notas](Libros/La_Tabla_Rasa.md)        |
+| Dive Into Data Science                    | Bradford Tuckfield  | 🕒 Planeado      | [Ver notas](Libros/Dive_Into_Data_Science.md)|
+| Python for Data Science                   | Yuli Vasiliev       | 🕒 Planeado      | [Ver notas](Libros/Python_for_Data_Science.md)|
+
+## ✅ Checklist de Progreso - Libros
+- [x] La tabla rasa (Steven Pinker)  
+- [ ] Dive Into Data Science (Bradford Tuckfield)  
+- [ ] Python for Data Science (Yuli Vasiliev)  
+
 ## 🌟 Proyectos destacados
 - **Análisis de Ventas con Pandas:** Exploración de datos de ventas y generación de reportes automáticos. [Ver proyecto](Data_Analyst_with_Python/project.ipynb)
 - **Automatización de Procesos con Python:** Script para scrapear datos y enviarlos por email. [Ver proyecto](Python3_Introduction/project.ipynb)
