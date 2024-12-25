@@ -23,6 +23,24 @@ Este repositorio contiene mi progreso en los cursos que estoy realizando durante
 | [Ejercicios de Codewars](Codewars_Exercises/)                | Codewars            | 🕒 Planeado   | [Ver carpeta](Codewars_Exercises/)               |
 | [Python 3 Introduction](Python3_Introduction/)              | Real Python         | 🕒 Planeado   | [Ver carpeta](Python3_Introduction/)             |
 
+## ✅ Checklist de Progreso
+
+### Data Science
+- [ ] [Associate Data Analyst in SQL](Associate_Data_Analyst_SQL/)  
+- [ ] [Data Analyst with Python](Data_Analyst_with_Python/)  
+- [ ] [Regular Expressions in Python](Regular_Expressions_in_Python/)  
+
+### Python y Desarrollo
+- [ ] [GitHub Foundations](GitHub_Foundations/)  
+- [ ] [Python 3 Introduction](Python3_Introduction/)  
+
+### Matemáticas y Fundamentos
+- [ ] [Essential Math for Data Science](Essential_Math_for_Data_Science/)  
+- [ ] [Linear Algebra for Machine Learning](Linear_Algebra_ML/)  
+
+### Marketing y Negocios
+- [ ] [Foundations of Digital Marketing and E-Commerce](Digital_Marketing_ECommerce/)  
+
 ## 🌟 Proyectos destacados
 - **Análisis de Ventas con Pandas:** Exploración de datos de ventas y generación de reportes automáticos. [Ver proyecto](Data_Analyst_with_Python/project.ipynb)
 - **Automatización de Procesos con Python:** Script para scrapear datos y enviarlos por email. [Ver proyecto](Python3_Introduction/project.ipynb)
