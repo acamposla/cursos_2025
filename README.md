@@ -1,5 +1,3 @@
-# cursos_2025
-
 
 # Cursos de Data Analytics 2025 📊
 
