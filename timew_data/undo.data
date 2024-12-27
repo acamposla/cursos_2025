@@ -20,3 +20,36 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20241226T154924Z","end":"20241226T163042Z","tags":["OREILLY-Essential_Math_for_Data_Science-book"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241227T120206Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241227T120206Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241227T120206Z","end":"20241227T122309Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241227T122738Z","tags":["Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241227T122738Z","tags":["Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241227T122738Z","end":"20241227T131013Z","tags":["Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241227T172626Z","tags":["Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241227T172626Z","tags":["Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241227T172626Z","end":"20241227T181137Z","tags":["Coursera-Specialization-Mathematics_for_Machine_Learning"]}
