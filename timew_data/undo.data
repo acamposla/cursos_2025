@@ -1,0 +1,22 @@
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241226T145939Z","tags":["associate-data-analyst-in-sql"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241226T145939Z","tags":["associate-data-analyst-in-sql"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241226T145939Z","end":"20241226T154237Z","tags":["associate-data-analyst-in-sql"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241226T154924Z","tags":["OREILLY-Essential_Math_for_Data_Science-book"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241226T154924Z","tags":["OREILLY-Essential_Math_for_Data_Science-book"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241226T154924Z","end":"20241226T163042Z","tags":["OREILLY-Essential_Math_for_Data_Science-book"]}
