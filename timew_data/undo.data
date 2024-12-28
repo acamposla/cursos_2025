@@ -96,3 +96,25 @@ txn:
   type: interval
   before: 
   after: {"id":4,"start":"20241227T122738Z","end":"20241227T131013Z","tags":["+Matematicas","Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241228T184600Z","tags":["+Data_Science","DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241228T184600Z","tags":["+Data_Science","DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241228T184600Z","end":"20241228T190112Z","tags":["+Data_Science","DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241228T193147Z","tags":["+Matematicas","Oreilly-Book-Essential_Math_for_Data_Science"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241228T193147Z","tags":["+Matematicas","Oreilly-Book-Essential_Math_for_Data_Science"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241228T193147Z","end":"20241228T195701Z","tags":["+Matematicas","Oreilly-Book-Essential_Math_for_Data_Science"]}

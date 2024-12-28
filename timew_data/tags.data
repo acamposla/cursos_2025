@@ -1,7 +1,8 @@
 {
-  "+Matematicas":{"count":4},
+  "+Data_Science":{"count":1},
+  "+Matematicas":{"count":5},
   "Codewars-Ejercicios":{"count":1},
   "Coursera-Specialization-Mathematics_for_Machine_Learning":{"count":3},
-  "DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL":{"count":2},
-  "Oreilly-Book-Essential_Math_for_Data_Science":{"count":1}
+  "DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL":{"count":3},
+  "Oreilly-Book-Essential_Math_for_Data_Science":{"count":2}
 }
