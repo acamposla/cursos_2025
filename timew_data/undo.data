@@ -64,3 +64,35 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20241228T110915Z","end":"20241228T114630Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241228T124932Z","tags":["+Matematicas","Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241228T124932Z","tags":["+Matematicas","Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241228T124932Z","end":"20241228T130600Z","tags":["+Matematicas","Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+txn:
+  type: interval
+  before: {"id":3,"start":"20241227T172626Z","end":"20241227T181137Z","tags":["Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":3,"start":"20241227T172626Z","end":"20241227T181137Z","tags":["+Matematicas","Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+txn:
+  type: interval
+  before: {"id":6,"start":"20241226T154924Z","end":"20241226T163042Z","tags":["Oreilly-Book-Essential_Math_for_Data_Science"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":6,"start":"20241226T154924Z","end":"20241226T163042Z","tags":["+Matematicas","Oreilly-Book-Essential_Math_for_Data_Science"]}
+txn:
+  type: interval
+  before: {"id":4,"start":"20241227T122738Z","end":"20241227T131013Z","tags":["Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":4,"start":"20241227T122738Z","end":"20241227T131013Z","tags":["+Matematicas","Coursera-Specialization-Mathematics_for_Machine_Learning"]}
