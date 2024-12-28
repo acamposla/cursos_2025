@@ -53,3 +53,14 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20241227T172626Z","end":"20241227T181137Z","tags":["Coursera-Specialization-Mathematics_for_Machine_Learning"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241228T110915Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241228T110915Z","tags":["Codewars-Ejercicios"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241228T110915Z","end":"20241228T114630Z","tags":["Codewars-Ejercicios"]}
