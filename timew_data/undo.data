@@ -118,3 +118,40 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20241228T193147Z","end":"20241228T195701Z","tags":["+Matematicas","Oreilly-Book-Essential_Math_for_Data_Science"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241229T152547Z","tags":["+General_Workflow","Real_Python"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241229T152547Z","tags":["+General_Workflow","Real_Python"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241229T152547Z","end":"20241229T164119Z","tags":["+General_Workflow","Real_Python"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241230T165727Z","tags":["+Data_Science","Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241230T165727Z","tags":["+Data_Science","Coursera-Multipath-Introduction_to_Data_Analytics"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241230T165727Z","end":"20241230T172732Z","tags":["+Data_Science","Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241230T080000Z","end":"20241230T083000Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241230T173416Z","tags":["+Matematicas","KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241230T173416Z","tags":["+Matematicas","KhaAcademy-Specialization-Algebra"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241230T173416Z","end":"20241230T174533Z","tags":["+Matematicas","KhaAcademy-Specialization-Algebra"]}
