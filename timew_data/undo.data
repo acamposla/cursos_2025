@@ -155,3 +155,86 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20241230T173416Z","end":"20241230T174533Z","tags":["+Matematicas","KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241231T105741Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241231T105741Z","tags":["Codewars-Ejercicios"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241231T105741Z","end":"20241231T161949Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241231T105741Z","end":"20241231T161949Z","tags":["Codewars-Ejercicios"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241231T110000Z","end":"20241231T161949Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241231T110000Z","end":"20241231T161949Z","tags":["Codewars-Ejercicios"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241231T110000Z","end":"20241231T163000Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241231T110000Z","end":"20241231T163000Z","tags":["Codewars-Ejercicios"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241231T110000Z","end":"20241231T163000Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241231T110000Z","end":"20241231T163000Z","tags":["Codewars-Ejercicios"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241231T110000Z","end":"20241231T113000Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241231T170000Z","tags":["+Matematicas","Oreilly-Book-Essential_Math_for_Data_Science"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241231T170000Z","tags":["+Matematicas","Oreilly-Book-Essential_Math_for_Data_Science"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241231T170000Z","end":"20241231T173000Z","tags":["+Matematicas","Oreilly-Book-Essential_Math_for_Data_Science"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241231T173950Z","tags":["+Data_Science","RealPython-LearningPath-Math_for_Data_Science"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241231T173950Z","tags":["+Data_Science","RealPython-LearningPath-Math_for_Data_Science"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241231T173950Z","end":"20241231T180859Z","tags":["+Data_Science","RealPython-LearningPath-Math_for_Data_Science"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20241231T180932Z","tags":["+Matematicas","KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20241231T180932Z","tags":["+Matematicas","KhaAcademy-Specialization-Algebra"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20241231T180932Z","end":"20241231T184439Z","tags":["+Matematicas","KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250101T174149Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250101T174149Z","tags":["Codewars-Ejercicios"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250101T174149Z","end":"20250101T180046Z","tags":["Codewars-Ejercicios"]}
