@@ -238,3 +238,58 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250101T174149Z","end":"20250101T180046Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250102T133214Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250102T133214Z","tags":["Codewars-Ejercicios"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250102T133214Z","end":"20250102T134358Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250102T135212Z","tags":["+Data_Science","Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250102T135212Z","tags":["+Data_Science","Coursera-Multipath-Introduction_to_Data_Analytics"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250102T135212Z","end":"20250102T142656Z","tags":["+Data_Science","Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250102T145944Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250102T145944Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250102T145944Z","end":"20250102T152402Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250102T163713Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250102T163713Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250102T163713Z","end":"20250102T163812Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250102T164249Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250102T164249Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250102T164249Z","end":"20250102T164334Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
