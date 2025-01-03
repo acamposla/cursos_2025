@@ -293,3 +293,40 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250102T164249Z","end":"20250102T164334Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250102T165920Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250102T165920Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250102T165920Z","end":"20250102T172251Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250102T172547Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250102T172547Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250102T172547Z","end":"20250102T173220Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250102T174223Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250102T174223Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250102T174223Z","end":"20250102T181120Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250103T101944Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
