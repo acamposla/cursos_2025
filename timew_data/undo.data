@@ -330,3 +330,76 @@ txn:
   type: interval
   before: 
   after: {"id":0,"start":"20250103T101944Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250103T101944Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250103T101944Z","end":"20250103T104350Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250103T105516Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250103T105516Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250103T105516Z","end":"20250103T110723Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250103T111106Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250103T111106Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250103T111106Z","end":"20250103T113257Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250105T142331Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250105T142331Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250105T142331Z","end":"20250105T143548Z","tags":["Codewars-Ejercicios: Resolver un ejercicio +Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250105T144813Z","tags":["KhaAcademy-Specialization-Algebra: Sesión 2 +KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250105T144813Z","tags":["KhaAcademy-Specialization-Algebra: Sesión 2 +KhaAcademy-Specialization-Algebra"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250105T144813Z","end":"20250105T150923Z","tags":["KhaAcademy-Specialization-Algebra: Sesión 2 +KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250105T151104Z","tags":["KhaAcademy-Specialization-Statistics: Sesión 1 +KhaAcademy-Specialization-Statistics"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250105T151104Z","tags":["KhaAcademy-Specialization-Statistics: Sesión 1 +KhaAcademy-Specialization-Statistics"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250105T151104Z","end":"20250105T153550Z","tags":["KhaAcademy-Specialization-Statistics: Sesión 1 +KhaAcademy-Specialization-Statistics"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250105T154759Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills: Modulo 1 +RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250105T154759Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills: Modulo 1 +RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250105T154759Z","end":"20250105T155944Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills: Modulo 1 +RealPython-LearningPath-Data_Science_Core_Skills"]}
