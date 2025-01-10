@@ -463,3 +463,36 @@ txn:
   type: interval
   before: 
   after: {"id":0,"start":"20250109T080000Z","end":"20250109T083000Z","tags":["Codewars-Ejercicios"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250110T205557Z","tags":["+RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250110T205557Z","tags":["+RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250110T205557Z","end":"20250110T205617Z","tags":["+RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250110T205639Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250110T205639Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250110T205639Z","end":"20250110T205650Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250110T205710Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250110T205710Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250110T205710Z","end":"20250110T213546Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
