@@ -496,3 +496,36 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250110T205710Z","end":"20250110T213546Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250111T151804Z","tags":["KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250111T151804Z","tags":["KhaAcademy-Specialization-Algebra"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250111T151804Z","end":"20250111T154319Z","tags":["KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250111T155518Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250111T155518Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250111T155518Z","end":"20250111T160831Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250111T171939Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250111T171939Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250111T171939Z","end":"20250111T174801Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
