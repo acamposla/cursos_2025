@@ -529,3 +529,51 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250111T171939Z","end":"20250111T174801Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250111T181821Z","tags":["NoStarchPress-Book-Python_for_Data_Science"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250111T181821Z","tags":["NoStarchPress-Book-Python_for_Data_Science"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250111T181821Z","end":"20250111T185341Z","tags":["NoStarchPress-Book-Python_for_Data_Science"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250112T122036Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250112T122036Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250112T122036Z","end":"20250112T122959Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250112T125848Z","tags":["KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250112T125848Z","tags":["KhaAcademy-Specialization-Algebra"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250112T125848Z","end":"20250112T131440Z","tags":["KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250112T132100Z","tags":["KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250112T132100Z","tags":["KhaAcademy-Specialization-Algebra"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250112T132100Z","end":"20250112T162722Z","tags":["KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250112T132100Z","end":"20250112T162722Z","tags":["KhaAcademy-Specialization-Algebra"]}
+  after: 
