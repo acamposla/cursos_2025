@@ -577,3 +577,25 @@ txn:
   type: interval
   before: {"id":1,"start":"20250112T132100Z","end":"20250112T162722Z","tags":["KhaAcademy-Specialization-Algebra"]}
   after: 
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250112T163955Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250112T163955Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250112T163955Z","end":"20250112T172650Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250112T175143Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250112T175143Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250112T175143Z","end":"20250112T185041Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
