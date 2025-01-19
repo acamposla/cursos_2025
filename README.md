@@ -9,7 +9,7 @@ Sigo un proceso estructurado para desarrollar las habilidades necesarias como Da
 ![Roadmap to Becoming a Data Analyst](https://pbs.twimg.com/media/GQ6DFeLXYAAXIqg?format=jpg&name=small)
 
 Este roadmap explica por qué comienzo con fundamentos matemáticos, SQL y Python, y cómo integro herramientas y conceptos avanzados progresivamente.
-
+Fuente: ![Fuente](https://x.com/InterestingSTEM/status/1805524639239553498)
 
 
 ## 🌟 Milestones
