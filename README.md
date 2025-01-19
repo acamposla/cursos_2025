@@ -2,6 +2,16 @@
 
 Este repositorio contiene mi progreso en los cursos que estoy realizando durante 2025, enfocados en Data Analytics, Marketing y Python.
 
+
+## 🌌 Roadmap to Becoming a Data Analyst
+Sigo un proceso estructurado para desarrollar las habilidades necesarias como Data Analyst. La siguiente imagen representa el roadmap que utilizo como guía:
+
+![Roadmap to Becoming a Data Analyst](https://pbs.twimg.com/media/GQ6DFeLXYAAXIqg?format=jpg&name=small)
+
+Este roadmap explica por qué comienzo con fundamentos matemáticos, SQL y Python, y cómo integro herramientas y conceptos avanzados progresivamente.
+
+
+
 ## 🌟 Milestones
 
 ### IBM Data Analyst Professional Certificate
@@ -114,11 +124,3 @@ El repositorio incluye carpetas para cada curso, organizadas con:
 
 - **Automatización de Progreso:**
   Implementar un archivo `progress.json` para registrar estados y actualizaciones automáticas con un script en Python.
-
-## 🌌 Roadmap to Becoming a Data Analyst
-Sigo un proceso estructurado para desarrollar las habilidades necesarias como Data Analyst. La siguiente imagen representa el roadmap que utilizo como guía:
-
-![Roadmap to Becoming a Data Analyst](https://pbs.twimg.com/media/GQ6DFeLXYAAXIqg?format=jpg&name=small)
-
-Este roadmap explica por qué comienzo con fundamentos matemáticos, SQL y Python, y cómo integro herramientas y conceptos avanzados progresivamente.
-
