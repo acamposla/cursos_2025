@@ -659,3 +659,25 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250118T130339Z","end":"20250118T131219Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250119T113619Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250119T113619Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250119T113619Z","end":"20250119T125450Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250119T171713Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250119T171713Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250119T171713Z","end":"20250119T181039Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
