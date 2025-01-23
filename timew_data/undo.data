@@ -681,3 +681,36 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250119T171713Z","end":"20250119T181039Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T191027Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T191027Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T191027Z","end":"20250122T191454Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250122T191836Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250122T191836Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250122T191836Z","end":"20250122T201801Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250123T174348Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250123T174348Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250123T174348Z","end":"20250123T185727Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
