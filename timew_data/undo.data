@@ -754,3 +754,77 @@ txn:
   type: interval
   before: 
   after: {"id":0,"start":"20250126T120000Z","end":"20250126T130000Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250126T143826Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250126T143826Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250126T143826Z","end":"20250126T145626Z","tags":["Coursera-Multipath-Introduction_to_Data_Analytics"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250126T165515Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250126T165515Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250126T165515Z","end":"20250129T164109Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250129T180000Z","end":"20250129T190000Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":2,"start":"20250126T165515Z","end":"20250129T164109Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250202T123854Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250202T123854Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250202T123854Z","end":"20250202T134041Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250202T161323Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250202T161323Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250202T161323Z","end":"20250202T165200Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250202T181919Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250202T181919Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250202T181919Z","end":"20250202T190607Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250202T191116Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250202T191116Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250202T191116Z","end":"20250202T191248Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
