@@ -1,1 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
 pydata-book-3rd-edition/datasets/fec/P00000001-ALL.csv filter=lfs diff=lfs merge=lfs -text
