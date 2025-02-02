@@ -1,8 +1,3 @@
-temperature,o_ring_failures
-53,2
-57,1
-58,1
-63,1
-70,1
-70,1
-75,2
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b9f12dbb106c6b90dbec58e64c7e9affef5cf990c5fec3e812bd1dee849bb4b
+size 63
