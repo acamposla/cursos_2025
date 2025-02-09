@@ -17,6 +17,24 @@ Fuente: ![Fuente](https://x.com/InterestingSTEM/status/1805524639239553498)
 Estoy trabajando para completar la certificación profesional **Google Advanced Data Analytics**, que consta de 7 cursos diseñados para desarrollar habilidades avanzadas en análisis de datos, Python, estadística y Machine Learning. Mi progreso se detalla a continuación:
 
 | Curso                                                 | Estado        | Notas |
+
+### Python for Data Analysis, 3rd Edition - Wes McKinney
+| Capítulo                                             | Estado        |
+|------------------------------------------------------|---------------|
+| Python Language Basics, IPython, and Jupyter Notebooks | ✅ Completado |
+| Built-In Data Structures, Functions, and Files       | 🔐 Planeado  |
+| NumPy Basics: Arrays and Vectorized Computation      | 🔐 Planeado  |
+| Getting Started with pandas                          | 🔐 Planeado  |
+| Data Loading, Storage, and File Formats             | 🔐 Planeado  |
+| Data Cleaning and Preparation                       | 🔐 Planeado  |
+| Data Wrangling: Join, Combine, and Reshape          | 🔐 Planeado  |
+| Plotting and Visualization                          | 🔐 Planeado  |
+| Data Aggregation and Group Operations               | 🔐 Planeado  |
+| Time Series                                         | 🔐 Planeado  |
+| Introduction to Modeling Libraries in Python        | 🔐 Planeado  |
+| Data Analysis Examples                              | 🔐 Planeado  |
+| Advanced NumPy                                      | 🔐 Planeado  |
+| Curso                                                 | Estado        | Notas |
 |-------------------------------------------------------|---------------|----------------------------------------------------------------|
 | Foundations of Data Science                           | 🔄 En curso | Conceptos fundamentales de ciencia de datos                    |
 | Get Started with Python                              | 🔐 Planeado  | Introducción a Python y manipulación de datos                  |
@@ -33,8 +51,8 @@ Paralelamente, estoy completando la certificación **Associate Data Analyst in S
 |--------------------------------------------------------|---------------|-------------------------|
 | Introduction to SQL                                    | ✅ Completado | -                       |
 | Intermediate SQL                                       | ✅ Completado | -                       |
-| Analyzing Students' Mental Health                     | 🔄 En curso | Exploración de datos     |
-| Joining Data in SQL                                    | 🔐 Planeado  | -                       |
+| Analyzing Students' Mental Health                     | ✅ Completado | Exploración de datos     |
+| Joining Data in SQL                                    | 🔄 En curso | -                       |
 | Data Manipulation in SQL                               | 🔐 Planeado  | -                       |
 | PostgreSQL Summary Stats and Window Functions         | 🔐 Planeado  | -                       |
 | Functions for Manipulating Data in PostgreSQL         | 🔐 Planeado  | -                       |
@@ -53,8 +71,8 @@ Estoy siguiendo el Learning Path **Data Science With Python Core Skills** de Rea
 | Explore Your Dataset With pandas                    | ✅ Completado | Exploración inicial de datos con pandas |
 | Reading and Writing CSV Files                       | ✅ Completado | Manejo de archivos CSV  |
 | Working With JSON in Python                         | 🔄 En curso | JSON y serialización de datos |
-| Pandas DataFrames 101                               | 🔐 Planeado  | -                       |
-| Python Plotting With Matplotlib                     | 🔐 Planeado  | -                       |
+| Pandas DataFrames 101                               | ✅ Completado | -                       |
+| Python Plotting With Matplotlib                     | 🔄 En curso | -                       |
 | Data Cleaning With pandas and NumPy                 | 🔐 Planeado  | -                       |
 | Idiomatic pandas: Tricks & Features You May Not Know| 🔐 Planeado  | -                       |
 | Interactive Data Visualization With Bokeh and Python| 🔐 Planeado  | -                       |
