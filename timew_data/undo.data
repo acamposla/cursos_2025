@@ -905,3 +905,25 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250209T185643Z","end":"20250209T190459Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250209T192243Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250209T192243Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250209T192243Z","end":"20250209T193432Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250209T194115Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250209T194115Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250209T194115Z","end":"20250209T194754Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
