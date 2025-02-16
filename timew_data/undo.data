@@ -938,3 +938,80 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250215T111933Z","end":"20250215T113800Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250215T121854Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250215T121854Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250215T121854Z","end":"20250215T122204Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250215T151901Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250215T151901Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250215T151901Z","end":"20250215T161258Z","tags":["RealPython-LearningPath-Data_Science_Core_Skills"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250216T091905Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250216T091905Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250216T091905Z","end":"20250216T094623Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250216T115904Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250216T115904Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250216T115904Z","end":"20250216T121721Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250216T122340Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250216T122340Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250216T122340Z","end":"20250216T124230Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250216T152710Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250216T152710Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250216T152710Z","end":"20250216T154006Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250216T160732Z","tags":["Oreilly-Book-The_Art_of_Data-Driven_Business"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250216T160732Z","tags":["Oreilly-Book-The_Art_of_Data-Driven_Business"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250216T160732Z","end":"20250216T162026Z","tags":["Oreilly-Book-The_Art_of_Data-Driven_Business"]}
