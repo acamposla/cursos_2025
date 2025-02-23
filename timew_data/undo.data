@@ -1015,3 +1015,41 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250216T160732Z","end":"20250216T162026Z","tags":["Oreilly-Book-The_Art_of_Data-Driven_Business"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250217T190000Z","end":"20250217T193000Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250220T190000Z","end":"20250220T200000Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250220T200000Z","end":"20250220T203000Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250222T111654Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250222T111654Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250222T111654Z","end":"20250222T120030Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250222T123724Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250222T123724Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250222T123724Z","end":"20250222T125726Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250221T200000Z","end":"20250221T210000Z","tags":["Oreilly-Book-Python_for_Data_Analysis"]}
