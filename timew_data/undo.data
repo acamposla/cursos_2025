@@ -1086,3 +1086,97 @@ txn:
   type: interval
   before: 
   after: {"id":1,"start":"20250223T192548Z","end":"20250223T210757Z","tags":["Oreilly-Book-The_Art_of_Data-Driven_Business"]}
+txn:
+  type: config
+  before: 
+  after: weekstart = Monday
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250303T190602Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250303T190602Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250303T190602Z","end":"20250303T192213Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250303T194335Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250303T194335Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250303T194335Z","end":"20250303T201539Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250303T203728Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250303T203728Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250303T203728Z","end":"20250303T205033Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250303T205235Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250303T205235Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250303T205235Z","end":"20250307T172416Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250303T205235Z","end":"20250307T172416Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250305T170000Z","end":"20250305T180000Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250307T172643Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250307T172643Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250307T172643Z","end":"20250307T173954Z","tags":["KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250307T174359Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250307T174359Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+  after: 
+  type: interval
+  before: 
+  after: {"id":1,"start":"20250307T174359Z","end":"20250307T181136Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250309T200658Z","tags":["2025-03-08T16:00:00\/2025-03-08T17:00:00","KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+txn:
+  type: interval
+  before: {"id":1,"start":"20250309T200658Z","tags":["2025-03-08T16:00:00\/2025-03-08T17:00:00","KhaAcademy-Specialization-Estadistica_de_Secundaria"]}
+  after: 
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250308T150000Z","end":"20250308T160000Z","tags":["KhaAcademy-Specialization-Algebra"]}
+txn:
+  type: interval
+  before: 
+  after: {"id":0,"start":"20250308T160000Z","end":"20250308T163000Z","tags":["DataCamp-CareerTrack-Associate_Data_Analyst_in_SQL"]}
